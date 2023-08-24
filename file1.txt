@@ -1,0 +1,2 @@
+Git is a repository tool or version control tool
+It is mainly used for tracking
